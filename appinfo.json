@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Rittertech",
+    "longName": "First Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/lightningBackground.png",
+                "name": "IMAGE_LIGHTNING",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "First Watchface",
+    "uuid": "7b786e94-21bd-436a-9067-9a03d423df95",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
